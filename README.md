@@ -180,7 +180,7 @@ I’m a passionate **Full-Stack Developer** who loves transforming ideas into fu
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> -->
 </div>
 
 ---
@@ -189,9 +189,13 @@ I’m a passionate **Full-Stack Developer** who loves transforming ideas into fu
 
 | Project | Description |
 |--------|-------------|
-| **[Project 1](#)** | Describe your best project here. |
-| **[Project 2](#)** | Add more projects or links as needed. |
-| **[Project 3](#)** | You can expand this section anytime. |
+| **[REL Sales CRM](#)** | The system is used to track and maintain the full sales process of Subaru vehicles. |
+| **[PNL Sales CRM](#)** | The system is used to track and maintain the full sales process of electric water pumps and spare parts for the corporate and govt. sales. |
+| **[Pedrollo Sales CRM](#)** | The system is used to track and maintain the full sales process of electric water pumps and spare parts for the distributors. |
+| **[Learning & Information Management System](#)** | LIMS is a coaching management system. It’s a custom project, different role users, student admission course and batch management, batch routine creation with calendar, student fees collection, income & expense management, different accounts report etc. |
+| **[Document Management & Approval System](#)** | DMAS is a management flow system. In this management system, we can create dynamic forms like Bill & other necessary forms and give them dynamic user flow system.  |
+| **[Easy Appointment](#)** |  Easy appointment is a doctor’s appointment management system. By this system, a system agent can give an appointment to the patient of a specific doctor with necessary information.  |
+| **[Inventory Management & File Sharing System](#)** | To record inventory life cycle history. Track user-level inventory usage and so on. A private and public file-sharing system. |
 
 ---
 
@@ -206,7 +210,7 @@ I’m a passionate **Full-Stack Developer** who loves transforming ideas into fu
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/irfan-sifat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://irfansifat.xyz/" target="_blank">
