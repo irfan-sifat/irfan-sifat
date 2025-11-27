@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm **Md. Irfan Sifat**
+# 👋 Hi, I'm **M Irfanul Kalam Chowdhury**
 
 ### Full-Stack Web Developer  
 Specialized in building modern, scalable web applications with clean architectures, smooth UI/UX, and efficient backend systems.
 
-### Frontend | Backend | API Design | AI-Integrated Apps  
+### Frontend | Backend | Requirement Analysis | Documentation    
 Crafting solutions with performance, maintainability, and user experience at the core.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=blue&style=flat-square)]()
