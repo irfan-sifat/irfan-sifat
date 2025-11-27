@@ -23,13 +23,13 @@ I’m a passionate **Full-Stack Developer** who loves transforming ideas into fu
 
 ### What I do:
 - Build **fast, responsive, user-friendly interfaces**  
-- Architect **REST APIs** and backend logic  
+- Architect backend logic  
 - Design and manage **databases**  
-- Integrate **AI / automation tools** for smarter applications  
+- Integrate **different tools** for smarter applications  
 - Follow clean coding practices & scalable system design  
 
 <div align="center">
-  <img src="https://github.com/Priom7/Priom7/blob/master/images/projects.png" width="90%" />
+  <img src="#" width="90%" />
 </div>
 
 ---
